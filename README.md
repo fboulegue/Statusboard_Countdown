@@ -13,7 +13,7 @@ Changes need to be done only on countdown.js, at Line 16-19 as well in Line 48-5
 
 Feel free to get in touch if you guys have any questions.
 
-fboulegue@me.com
+fboulegue@me.com<br>
 http://twitter.com/_smirk 
 
 
