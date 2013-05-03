@@ -18,8 +18,10 @@ function countdown() {
     pretext = ' '; //Set Pretext
 	endtext = ' untill evening!'; //Set Text
 	
-	
-    
+   //Check if sameday but later	
+    if (endTime < now){
+	day = day +1; 
+	endTime = new Date(year, month, day, 16, 0, 0);} //need to be the same time as Line 17
 	
                 
     // Calculations         
